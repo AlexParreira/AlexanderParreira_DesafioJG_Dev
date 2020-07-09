@@ -1,7 +1,7 @@
 Autor: Alexander de Oliveira Parreir<br>
 Turma: Super Esteg Jovem Gênios<br>
 Data da Entrega:07/07/2020<br>
-
+<a href:'https://youtu.be/goDdn2PiaLw'>Vídeo Tutorial</a>
 
 ### Descrição
 <br>
