@@ -5,6 +5,7 @@ Data da Entrega:07/07/2020
 
 
 ###Descrição
+<br>
 O software consiste em um game em linha de comando que reproduz parte do jogo O Show do Milhão, um jogo de perguntas e respostas com objetivo de premiar o vencedor com um prêmio de 1 milhão de reais, o jogador inicia com R$500,00 o jogo  é dividido em  4 rodadas contendo 24 perguntas cada uma com um valor, cada rodada valendo um determinado valor.
 
 ###Operação do Programa
