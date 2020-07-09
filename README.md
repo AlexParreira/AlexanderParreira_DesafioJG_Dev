@@ -1,4 +1,4 @@
-Autor: Alexander de Oliveira Parreira
+Autor: Alexander de Oliveira Parreira\n
 Turma: Super Esteg Jovem Gênios
 Data da Entrega:07/07/2020
 
