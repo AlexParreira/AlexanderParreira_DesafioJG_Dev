@@ -16,20 +16,22 @@ O usuário deve fornecer os valores conforme solicitado pelo programa. Os valore
 <br>
 
 Após cada pergunta o usuário terá que digitar entradas específicas para cada situação como:
- -Se a entrada for R:
-		Uma mensagem solicitando uma entrada com a resposta da questão aparecerá.
- -Se a entrada for P:
-		Uma mensagem informando o número de pulo restante aparecerá e iniciará uma nova questão, porém caso o variável cont_pulo esteja em 0, uma mensagem vai informar o valor da variável seguida de uma mensagem informando que ao continuar ele aceitará estar desistindo da partida, para continuar ou não ele terá que confirmar com as letras ‘N’ para não e ‘S‘ para sim.
 
-    -Se a entrada for S:
+    -Se a entrada for R:
+		Uma mensagem solicitando uma entrada com a resposta da questão aparecerá.
+		
+    -Se a entrada for P:
+		Uma mensagem informando o número de pulo restante aparecerá e iniciará uma nova questão, porém caso o variável cont_pulo esteja em 0, uma mensagem vai informar o valor da variável seguida de uma mensagem informando que ao continuar ele aceitará estar desistindo da partida, para continuar ou não ele terá que confirmar com as letras ‘N’ para não e ‘S‘ para sim.
+		
+    	-Se a entrada for S:
 			Uma mensagem de encerramento vai aparecer.
 
-    -Se a entrada for N:
+    	-Se a entrada for N:
 			A variável cont_pulo permanecerá em 0 e a pergunta aparecerá novamente.
 
--Se a entrada for J:
+    -Se a entrada for J:
 	Uma mensagem mostrando o valor da variável cont_ajuda aparecerá e a pergunta será refeita porém duas questões erradas ficaram em vermelho e uma mensagem solicitando a resposta aparecerá. Caso o número de ajudas tenha acabado, uma mensagem informará sobre, uma mensagem informando que ele não possui mais ajuda aparecerá e que ele poderá responder ou pular caso ainda tenha pulos.
--Se a entrada for qualquer outra:
+    -Se a entrada for qualquer outra:
 	Uma mensagem de entrada invalida aparecerá e a pergunta será refeita.
 Condições de contorno
 O programa aceita qualquer valor de entrada, tanto tipos caractere ou inteiro.
